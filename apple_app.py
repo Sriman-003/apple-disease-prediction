@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1Lf-FYMOhPJv_oHIasuhHsimREbNo2n5t
 """
 
-!pip install --upgrade tensorflow==2.14.0
+pip install --upgrade tensorflow==2.14.0
 import os
 import random
 import numpy as np
